@@ -1,11 +1,9 @@
 # EVIC2019 - Tutorial de Dynamic Topic Models en el contexto del estallido social en Chile
 
-Autores: Eliana Scheihing & Matthieu Vernier (Instituto de Informática, Universidad Austral de Chile)
+*Autores*: _Eliana Scheihing_ & _Matthieu Vernier_ (Instituto de Informática, Universidad Austral de Chile)
 
 Tutorial realizado para la [Escuela de Verano en Inteligencia Computación 2019](http://evic2019.inf.uach.cl/) (16-17-18 diciembre 2019, Valdivia, Chile)
 
-
-El Tutorial incluye una parte [Teórica](...) y una parte [Práctica](Tutorial_PartePractica.ipynb)
 
 ## 1. Dynamic Topic Models [[Slides]](...)
 
@@ -20,7 +18,7 @@ El Tutorial incluye una parte [Teórica](...) y una parte [Práctica](Tutorial_P
 -
 
 
-# 3. Referencias útiles para ir más lejo con los _Dynamic Topic Models_
+## 3. Referencias útiles para ir más lejo con los _Dynamic Topic Models_
 
 -
 -
